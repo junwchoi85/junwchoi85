@@ -13,7 +13,7 @@ I'm a passionate software engineer with 8 years of experience in AWS cloud servi
 - **Project Management & Methodologies:** JIRA, Agile
 
 ## 🚀 Featured Projects
-- [**Cinema Application**](https://github.com/junwchoi85/JCinema): Cinema application with Event Driven Microservice Architecture & Flutter
+- [**Cinema Application**](https://github.com/junwchoi85/JCinema): Scalable & secure application using Event Driven Microservice Architecture & Flutter
 - [**News Application**](https://github.com/junwchoi85/tamper-proof-news.git): Tamper-proof news platform using Blockchain
 
 ## 📚 Currently Learning

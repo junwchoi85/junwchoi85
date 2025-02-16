@@ -13,9 +13,8 @@ I'm a passionate software engineer with 8 years of experience in AWS cloud servi
 - **Project Management & Methodologies:** JIRA, Agile
 
 ## 🚀 Featured Projects
-- [**Project One**](https://github.com/junwchoi85/JCinema): A brief description of what this project does and why it's awesome.
-- [**Project Two**]([https://github.com/yourusername/project-two](https://github.com/junwchoi85/tamper-proof-news.git)): A short summary highlighting the key features and impact of this project.
-- [**Project Three**](https://github.com/yourusername/project-three): An overview of this project and its significance.
+- [**Cinema Application**](https://github.com/junwchoi85/JCinema): Cinema application with Event Driven Microservice Architecture & Flutter
+- [**News Application**](https://github.com/junwchoi85/tamper-proof-news.git): Tamper-proof news platform using Blockchain
 
 ## 📚 Currently Learning
 - Kubernetes and cloud security

@@ -7,9 +7,7 @@ Software Engineer | Lifelong Learner
 Software Engineer with 8 years of extensive experience specializing in AWS cloud services, Java, and JavaScript technologies. Currently enhancing my skill set by studying Flutter, focusing on developing versatile and robust applications.
 
 * 🌍  I'm based in Auckland, New Zealand
-* 🖥️  See my portfolio at [test](http://test.com)
-* ✉️  You can contact me at [jhchoi.nz@gmail.com](mailto:jhchoi.nz@gmail.com)
-* 🚀  I'm currently working on [test](http://test.io)
+* ✉️  You can contact me at [junwchoi85@gmail.com](mailto:junwchoi85@gmail.com)
 * 🧠  I'm learning Flutter, Python
 
 ### Skills
